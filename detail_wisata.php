@@ -227,7 +227,6 @@ $formattedPrice = $detail ? formatPrice($detail['harga'] ?? null) : null;
 				</div>
 			</div>
 		</section>
-
 		<div class="container py-5">
 			<a href="daftar_wisata.php" class="btn btn-secondary mb-4">&larr; Kembali ke Daftar Wisata</a>
 
