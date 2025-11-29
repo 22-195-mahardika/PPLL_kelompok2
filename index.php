@@ -136,7 +136,7 @@
 					<div class="col-md-12 text-center">
 
 						<p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-							Copyright &copy;<script>document.write(new Date().getFullYear());</script>  by PPLL KELOMPOK 2</a>
+							Copyright &copy;<script>document.write(new Date().getFullYear());</script>  by PPLL KELOMPOK 2 <li><a href="loginAdmin.php">Admin</a>
 							<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
 						</div>
 					</div>
