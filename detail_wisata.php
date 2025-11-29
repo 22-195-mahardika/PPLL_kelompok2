@@ -279,7 +279,7 @@ $formattedPrice = $detail ? formatPrice($detail['harga'] ?? null) : null;
 				<div class="alert alert-danger" role="alert"><?php echo htmlspecialchars($errorMessage, ENT_QUOTES, 'UTF-8'); ?></div>
 			<?php endif; ?>
 
-			<div class="mt-4"><a href="index.html">Home</a></div>
+			<div class="mt-4"><a href="index.php">Home</a></div>
 		</div>
 
 	<footer class="ftco-footer bg-bottom ftco-no-pt">

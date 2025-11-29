@@ -26,16 +26,16 @@
 <body>
 	<nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
 		<div class="container">
-			<a class="navbar-brand" href="index.html">PPLL<span>Wisata</span></a>
+			<a class="navbar-brand" href="index.php">PPLL<span>Wisata</span></a>
 			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
 				<span class="oi oi-menu"></span> Menu
 			</button>
 
 			<div class="collapse navbar-collapse" id="ftco-nav">
 				<ul class="navbar-nav ml-auto">
-					<li class="nav-item active"><a href="index.html" class="nav-link">Home</a></li>
-					<li class="nav-item"><a href="profil.html" class="nav-link">Profil</a></li>
-					<li class="nav-item"><a href="daftarwisata.html" class="nav-link">Wisata</a></li>
+					<li class="nav-item active"><a href="index.php" class="nav-link">Home</a></li>
+					<li class="nav-item"><a href="profil.php" class="nav-link">Profil</a></li>
+					<li class="nav-item"><a href="daftar_wisata.php" class="nav-link">Wisata</a></li>
 				</ul>
 			</div>
 		</div>
@@ -70,7 +70,7 @@
 										<span class="subheading">About Us</span>
 										<h2 class="mb-4">Make Your Tour Memorable</h2>
 										<p style="text-align: justify;">Wisata Kabupaten Bangkalan hadir untuk memperkenalkan pesona alam, budaya, dan kearifan lokal yang dimiliki Bangkalan, Madura. Sebagai gerbang utama menuju Pulau Madura, Bangkalan menawarkan destinasi wisata yang unik, mulai dari keindahan pantai, wisata religi, kuliner khas, hingga warisan budaya yang masih terjaga</p>
-										<p><a href="detail.php" class="btn btn-primary">Visit Your Destination</a></p>
+										<p><a href="daftar_wisata.php" class="btn btn-primary">Visit Your Destination</a></p>
 									</div>
 								</div>
 							</div>
